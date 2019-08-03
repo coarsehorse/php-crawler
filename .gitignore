@@ -1,0 +1,7 @@
+.idea/
+results/
+results2/
+results3/
+log*.txt
+crawlingTasks.json
+crawlingResults.json
